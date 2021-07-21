@@ -1,0 +1,3 @@
+<!-- START OF SLIDER -->
+
+<!-- END OF SLIDER SECTION  -->
